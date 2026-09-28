@@ -1,7 +1,0 @@
-core/algorithm/src/main/kotlin/com/siaa/core/algorithm/AdaptivePlacementEngine.kt:108:71: warning: there is more than one label with such a name in this scope
-                val ex = snapshot.exerciseById[r.exerciseId] ?: return@mapNotNull null
-                                                                      ^
-core/algorithm/src/main/kotlin/com/siaa/core/algorithm/AdaptivePlacementEngine.kt:109:91: warning: there is more than one label with such a name in this scope
-                if (ex.kcIds.none { snapshot.componentById[it]?.domain == domain }) return@mapNotNull null
-                                                                                          ^
-SIAA spelling runtime smoke OK

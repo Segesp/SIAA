@@ -1,2 +1,0 @@
-release readiness: app=2.5.0-dev content=2.4.0 cefrj=411 learner_tasks=1409 audio=3954 human=0
-release package consistency audit OK; NOT Android/device certification

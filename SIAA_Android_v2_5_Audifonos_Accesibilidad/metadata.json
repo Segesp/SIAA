@@ -1,7 +1,0 @@
-{
-  "name": "SIAA",
-  "description": "SIAA Android: mejoras de audífonos y accesibilidad, paquete de desarrollo; contenido heredado v2.4.0. No es un APK validado.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [],
-  "version": "2.5.0-dev"
-}
