@@ -1,0 +1,8 @@
+core/algorithm/src/main/kotlin/com/siaa/core/algorithm/AdaptivePlacementEngine.kt:108:71: warning: there is more than one label with such a name in this scope
+                val ex = snapshot.exerciseById[r.exerciseId] ?: return@mapNotNull null
+                                                                      ^
+core/algorithm/src/main/kotlin/com/siaa/core/algorithm/AdaptivePlacementEngine.kt:109:91: warning: there is more than one label with such a name in this scope
+                if (ex.kcIds.none { snapshot.componentById[it]?.domain == domain }) return@mapNotNull null
+                                                                                          ^
+top=E1 utility=1.0677048408514367 gap=0.55, info=0.45, readiness=0.90, latent=0.46, qP=0.51, mirtP=0.54, wheel=false, mpcFuture=0.800, depth=2
+SIAA algorithm smoke OK

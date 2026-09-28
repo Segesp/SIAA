@@ -1,0 +1,134 @@
+[
+  {
+    "path": ".github/workflows/android-ci.yml",
+    "change": "modified"
+  },
+  {
+    "path": ".github/workflows/validate.yml",
+    "change": "modified"
+  },
+  {
+    "path": "app/build.gradle.kts",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/androidTest/java/com/siaa/app/media/EarbudCommandRouterInstrumentedTest.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/androidTest/java/com/siaa/app/ui/AccessibilityComponentsInstrumentedTest.kt",
+    "change": "added"
+  },
+  {
+    "path": "app/src/main/AndroidManifest.xml",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/assets/content/manifest.json",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/MainActivity.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/MainViewModel.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/MediaDiagnostics.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/UserPreferences.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/media/EarbudCommandRouter.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/media/SiaaPlaybackService.kt",
+    "change": "modified"
+  },
+  {
+    "path": "app/src/main/java/com/siaa/app/ui/SiaaApp.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/audio/src/main/java/com/siaa/core/audio/AndroidTtsSpeechPort.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/audio/src/main/java/com/siaa/core/audio/AudioOutputGuard.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/audio/src/main/java/com/siaa/core/audio/AudioPreflight.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/audio/src/main/java/com/siaa/core/audio/OfflineTtsVoices.kt",
+    "change": "added"
+  },
+  {
+    "path": "core/model/src/main/kotlin/com/siaa/core/model/DomainModels.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/model/src/main/kotlin/com/siaa/core/model/HeadphoneInteraction.kt",
+    "change": "added"
+  },
+  {
+    "path": "core/runtime/src/main/kotlin/com/siaa/core/runtime/CalibratedMediaMapper.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/runtime/src/main/kotlin/com/siaa/core/runtime/HeadphoneProtocol.kt",
+    "change": "added"
+  },
+  {
+    "path": "core/runtime/src/main/kotlin/com/siaa/core/runtime/HeadphoneSetupFlow.kt",
+    "change": "added"
+  },
+  {
+    "path": "core/runtime/src/main/kotlin/com/siaa/core/runtime/LessonRuntime.kt",
+    "change": "modified"
+  },
+  {
+    "path": "core/runtime/src/main/kotlin/com/siaa/core/runtime/RuntimeModels.kt",
+    "change": "modified"
+  },
+  {
+    "path": "scripts/headphone_accessibility_audit.py",
+    "change": "added"
+  },
+  {
+    "path": "scripts/kotlin_syntax_audit.sh",
+    "change": "added"
+  },
+  {
+    "path": "scripts/release_readiness_audit.py",
+    "change": "modified"
+  },
+  {
+    "path": "scripts/smoke_headphones_accessibility.sh",
+    "change": "added"
+  },
+  {
+    "path": "tools/headphones_accessibility_smoke.kt",
+    "change": "added"
+  },
+  {
+    "path": "tools/kotlin_syntax_audit.kt",
+    "change": "added"
+  },
+  {
+    "path": "tools/runtime_regression_smoke.kt",
+    "change": "modified"
+  },
+  {
+    "path": "tools/runtime_smoke.kt",
+    "change": "modified"
+  }
+]
